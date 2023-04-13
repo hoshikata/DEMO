@@ -1,1 +1,0 @@
-import{i as r,x as s,l as c,w as n,o as i,p as u,M as d}from"./index-2cc553d3.js";const y={__name:"index",setup(p){const e=r(),t=s(),{changeCategoryId:a,readCategory:m}=t,o=c(()=>e.params.id*1);return n(o,a,{immediate:!0}),(_,l)=>(i(),u(d,{edit:!1,hasTitle:!0}))}};export{y as default};
